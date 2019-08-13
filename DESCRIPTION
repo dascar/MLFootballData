@@ -1,0 +1,16 @@
+Package: MLFootballData
+Type: Package
+Title: Beispiedatensatz in Trainings, Workshops und Schulungen im Bereich Statistik und Methodik  
+Version: 0.5.0
+Author: Andreas Wygrabek [aut, cre]
+Maintainer: Andreas Wygrabek <andreas.wygrabek@da-sc-ar.de>
+Description: Das Paket enthällt Fußballdaten über die hoechsten Spielklassen in Deutschland und England. Die Daten wurden durch Andreas Wygrabek/Data-Science-Architect (https://www.data-science-architect.de) aufbereitet 
+  und werden in Statistik- und Machine Learning-Trainings verwendet.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
